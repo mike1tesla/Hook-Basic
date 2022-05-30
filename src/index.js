@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Component } from 'react/cjs/react.production.min';
 // Component la ham App duoc lay tu app.js
 // SPA single page application  
 ReactDOM.render(
